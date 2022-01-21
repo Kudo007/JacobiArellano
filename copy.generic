@@ -1,0 +1,39 @@
+<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<article>
+									<header class="major">
+										<h1>Revisions</h1>
+										<hr />
+									</header>
+								</article>
+								<article>
+									<div class="box">
+										<p><span class="image right"><img src="images/pic27.jpg" alt="" /></span></p>
+										<header>
+											<h2>Revisions</h2>
+										</header>
+										<p>My first step to creating this project extends from a base project I previously had to make a portfolio to add on my resume. Thankfully I was accustomed to this template and was able to change what I needed to complete the requirements. I used from a resource online that provides various base templates for other to use for free!</p>
+										<ul class="actions special">
+											<li><a href="https://html5up.net/massively" class="button large">html5up</a></li>
+										</ul>
+										<header>	
+									</div>
+								</article>	
+								<article>			
+									<div class="box">
+										<h2>Icon linking issues</h2>
+										<p><span class="image left"><img src="images/pic29.jpg" alt="" /></span>Once I completed my first page/ first draft, I had my friends and family review it. The major issue I had with my site was the social icons on the top right. Unfortunately, they did not work properly as I used the source for LinkedIn and GitHub excluding the “https://” part. After reviewing a few YouTube videos, I found out that in order to correctly link my social media, I had to include the “https://” part. Click the below icons to see what I am describing before the fix.</p>
+										<ul class="icons">
+											<li><a href="www.linkedin.com/in/jacobi-arellano-4737b664" class="icon brands fa-linkedin"><span class="label">linkedin</span></a></li>
+											<li><a href="www.github.com/Kudo007" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+										</ul>
+									</div>
+								</article>
+							</section>
+						<!-- Footer -->
+						<footer>
+                            
+							![](images/pic27)
